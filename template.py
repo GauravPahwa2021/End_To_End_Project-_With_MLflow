@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(levelname)s: %(message)s: %(lineno)s')
 
-project_name = "end-to-end-mlproject-with-mlflow"
+project_name = "mlproject"
 
 list_of_files = [
     ".github/workflows/.gitkeep",
